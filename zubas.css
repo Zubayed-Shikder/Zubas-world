@@ -4,5 +4,5 @@ h3{
     background-color: aqua;
 }
 p{
-    display: inline-block;
+    display: block;
 }

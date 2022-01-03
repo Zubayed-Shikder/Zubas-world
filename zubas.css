@@ -1,0 +1,8 @@
+h3{
+    border: 10px;
+    color: darkred;
+    background-color: aqua;
+}
+p{
+    display: inline-block;
+}
